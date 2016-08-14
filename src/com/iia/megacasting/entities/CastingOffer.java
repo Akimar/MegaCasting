@@ -21,7 +21,7 @@ public class CastingOffer {
     private int boadcastingTime;
     private String location;
     private int postNumber;
+    private String postDescription;
     private String profileDescription;
-    
-    
+   
 }
